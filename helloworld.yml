@@ -4,4 +4,4 @@
   tasks:
   - name: Print a debug text
     debug:
-      msg: "Hello Wolrd !!!"
+      msg: "Hello Toto !!!"
